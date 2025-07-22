@@ -5,22 +5,17 @@
   <span style="font-weight: bold; color: #4ea8de;"><a href="https://www.frontendmentor.io/" target="_blank" rel="noopener noreferrer">Frontend Mentor</a></span> 
   para ensino de tecnologias WEB.
 </p>
-
+<br>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+  <a href="https://github.com/Diegogitup?tab=repositories" target="_blank" rel="noopener noreferrer" title="Ver mais portfólios no GitHub">Portfólio</a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Diegogitup?tab=repositories" target="_blank" rel="noopener noreferrer" rel="noopener noreferrer" alt="ola">
-    <img alt="Repositório" title="Ver mais portfólios no GitHub" src="https://img.shields.io/static/v1?label=Repositório&message=📁&color=49AA26&labelColor=24292e">
-  </a>
-</p>
-
-
-
-
+<br>
+<br>
+<br>
 
 ## 🚀 Tecnologias
 
